@@ -1,0 +1,5 @@
+plugins/
+keys/
+*.p8
+*.pem
+connector.json
